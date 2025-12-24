@@ -24,7 +24,4 @@ Then User should verify after login success message
 	Examples:
 		|username|password|
 		|guna|Hello@1|
-	@four
-	Examples:
-		|username|password|
-		|guna|Hello@12|
+	
